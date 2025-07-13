@@ -86,7 +86,7 @@ OK_Fed_&_State_Tax_Calculator/
 │   └── App.js            # React UI
 ├── README.md
 📜 License
-MIT © 2025 – Your Name Here
+MIT © 2025 – Thomas Couch
 
 yaml
 Copy
